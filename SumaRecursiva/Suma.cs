@@ -21,7 +21,7 @@ namespace SumaRecursiva
         {
             List<int> list = new List<int>() {1,2,3,4,5,6};
             int suma = sumaRecursiva(list, 0);
-            Console.WriteLine("Resultado suma: " + suma);
+            Console.WriteLine("El resultado de la suma es: " + suma);
             
 
         }
